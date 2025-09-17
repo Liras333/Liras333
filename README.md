@@ -53,5 +53,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liras333&show_icons=true&locale=en&layout=compact" alt="liras333" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liras333&show_icons=true&locale=en" alt="liras333" /></p>
-
