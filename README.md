@@ -14,8 +14,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+     <a href="https://pl.wikipedia.org/wiki/G-code" target="_blank" rel="noreferrer"> 
+    <img src="https://img.freepik.com/premium-vector/g-code-icon-vector-image-can-be-used-3d-printing_120816-350260.jpg" alt="g-code" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.autodesk.com/pl/products/autocad/overview" target="_blank" rel="noreferrer"> 
+    <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="autoCAD" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.autodesk.com/pl/products/fusion-360/overview" target="_blank" rel="noreferrer"> 
+    <img src="https://cad-project.pl/wp-content/uploads/2021/10/autodesk-fusion-360-product-icon-social-400.png" alt="fusion 360" width="40" height="40"/> 
   </a> 
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -24,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
